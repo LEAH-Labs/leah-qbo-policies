@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LEAH Labs Invoice Automation - Privacy Policy</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1 { color: #333; }
+        p { line-height: 1.6; margin-bottom: 15px; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy - LEAH Labs Invoice Automation</h1>
+    
+    <p><strong>Last Updated:</strong> February 19, 2026</p>
+    
+    <h2>Overview</h2>
+    <p>LEAH Labs Invoice Automation is an internal business application designed exclusively for LEAH Labs' accounting automation. This application connects to QuickBooks Online to streamline invoice processing and transaction matching.</p>
+    
+    <h2>Data Collection and Use</h2>
+    <p>This application accesses QuickBooks Online data solely for internal accounting automation purposes. The application:</p>
+    <ul>
+        <li>Reads transaction and vendor data from your QuickBooks account</li>
+        <li>Uploads invoice attachments to match with existing transactions</li>
+        <li>Does not store QuickBooks data outside of the QuickBooks system</li>
+        <li>Does not share any data with third parties</li>
+    </ul>
+    
+    <h2>Data Security</h2>
+    <p>All data access occurs through secure QuickBooks APIs using OAuth 2.0 authentication. No QuickBooks data is permanently stored by this application.</p>
+    
+    <h2>Internal Use Only</h2>
+    <p>This application is for internal use by LEAH Labs only and is not distributed to other companies or individuals.</p>
+    
+    <h2>Contact</h2>
+    <p>For questions about this privacy policy, contact: wes@leahlabs.com</p>
+</body>
+</html>
